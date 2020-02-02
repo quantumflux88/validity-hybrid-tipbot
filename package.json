@@ -1,5 +1,5 @@
 {
-  "name": "validity-hybrid-tipbot",
+  "name": "QFF_bot",
   "version": "1.0.0",
   "description": "EGEM/VLDY discord and telegram tipbot.",
   "main": "bot.js",
