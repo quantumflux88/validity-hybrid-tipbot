@@ -1,7 +1,7 @@
 
-const tokenLocation = "0x904da022abcf44eba68d4255914141298a7f7307";
-const tipLocation = "0x51bb6fd1ab2cf10076549df44d4b6eda2a00e093";
-const mvpLocation = "0x00c1c8821abc108711daa82950c3ba5452899a88";
+const tokenLocation = "0x9B23629097Fd2cdEA7DAd95Ba71582866E8B4441";
+const tipLocation = "0x3e43e1FD8f8f84Ce9147145D3162631AEF4CBa60";
+const mvpLocation = "0xa5Bf040d88Bfb205D7C51F456779AE8BeFB3e151";
 
 const jsonMVP = require("./build/contracts/CommunalValidation.json");
 const jsonTip = require("./build/contracts/Tipbot.json");
