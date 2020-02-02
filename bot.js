@@ -6,16 +6,16 @@ var serviceAccount = require("./serviceFile.json");
 const admin = require("firebase-admin");
 
 const discordToken = "";
-const telegramToken = "";
+const telegramToken = "991661595:AAGxfyxXTO8JAcFg1AsGDDiBoKQ8sLOwGoc";
 const firebaseAuth = {
   credential: admin.credential.cert(serviceAccount),
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "991661595:AAGxfyxXTO8JAcFg1AsGDDiBoKQ8sLOwGoc",
+  authDomain: "quantumflux.space/qffbot/",
+  databaseURL: "https://quantumflux.space/qffbot",
+  projectId: "qffbot",
+  storageBucket: "gs://quantumfluxfield.appspot.com",
+  messagingSenderId: "1056611309953",
+  appId: "1:1056611309953:web:a6c4bc3788b57ff5348b6c",
 };
 
 initialiseServer = async() => {
